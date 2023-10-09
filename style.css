@@ -1,0 +1,149 @@
+html {
+    min-height:100%;
+    background:linear-gradient(0deg, rgba(205, 0, 123, 0.235), rgba(191, 0, 118, 0.313)),;
+    background: size cover;;
+    background-repeat: no-repeat;
+    
+  }
+  h1{
+    color: rgb(218, 10, 10);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-align: left;
+    text-shadow: 5px;
+     
+  }
+  h2{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-align: center;
+    text-shadow: 5px;
+  }
+  h3{
+    color: rgb(180, 0, 99);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large ;
+    text-align: center;
+    text-shadow: 5px;
+  
+  }
+  p{
+    color: rgb(0, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:xx-large ;
+    text-align: left;
+    text-shadow: 5px;
+  
+
+
+  }
+  *{
+margin: 0;
+padding: 0;
+  }
+  header{
+    
+    height: 19vh;
+      background-color:rgb(0, 19, 185);
+      background-image: url(Animation\ 1\ \(1\).png);
+      background-repeat: no-repeat;
+      border-width: 10px;
+          border-radius: 10px;
+          border-style: dotted;
+          border-color: rgba(255, 58, 58, 0.568);
+          border-bottom-color: rgba(255, 89, 89, 0.568);
+
+} header > nav {
+position: absolute;
+right: 9vw;
+top: 4vw;
+ }
+ header > nav > a {
+  font-size: 30px;
+  text-decoration: none;
+
+}header > nav > a:link {color: black;}
+header > nav > a:link, a:visited, a:active{
+  color: black;
+}
+header > nav > a:hover { color: rgb(255, 255, 255);
+  text-shadow: 2px 2px rgb(255, 255, 255);}
+
+header > nav > a {text-decoration: none;
+padding: 1vh 1vw;
+}
+
+
+main{
+height: 120vh;
+background-color: rgb(53, 165, 225);
+ ;
+
+}
+
+  footer{
+
+    height: 8,5vh;
+    background-color: rgb(20, 30, 70);
+    margin: 0 auto; padding:0;
+    
+  }
+ 
+  * {margin: 0 auto; padding: 0;}
+  body{
+    margin-top: 5vh;
+    width: 90vw;
+    border: 4px solid rgb(0, 0, 0);
+    border-style: ridge;
+    
+  }
+
+  * {
+margin: 0 auto;
+padding: 0;
+
+  }
+
+  body {
+width: 90%;
+
+  }
+  .tekst_klein > h1 {
+font-size: 3em;
+font-family: Arial, Helvetica, sans-serif;
+color: #ff0000;
+text-align: center;
+border: 5px solid rgb(20, 30, 70)
+
+  }
+  .tekst_klein > p {
+    text-align: center;
+    border: 5px solid rgb(255, 255, 255)
+    
+  }
+   
+
+
+
+.socials img {
+  border: #0ee676;
+  border-radius: 50%;
+}
+
+.po img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 1300px;
+   height: 150px;
+   
+   
+
+ 
+
+ 
+ 
+
+
+}
